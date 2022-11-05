@@ -1,0 +1,6 @@
+/client/node_modules
+/client/.pnp
+/client/coverage
+/client/build
+
+/api/node_modules
